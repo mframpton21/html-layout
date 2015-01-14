@@ -1,0 +1,40 @@
+
+/** {
+    outline: 1px solid red;
+}*/
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.header {
+    min-height: 20%;
+    background: #D8D8D8;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.header__logo {
+    height: 40px;
+    width: 40px;
+    background: #4A90E2;
+}
+
+.container {
+    height: 30%;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: #444;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.section {
+    height: 12.5%;
+}
+
+.blue { background: #4A90E2; }
+.turquoise { background: #50E3C2; }
+.olive { background: #B8E986; }
+.yellow { background: #F8E71C; }

@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: #D8D8D8;
+}
+
+.header {
+    background: #444444;
+    height: 20%;
+}
+
+.container {
+    height: 80%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container__top {
+    height: 80%;
+    background: #EFEFEF;
+}
+.container__bottom {
+    height: 20%;
+    background: #222;
+}
